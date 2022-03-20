@@ -1,4 +1,4 @@
-# dio-desafio-github-primeiro-respositorio
+# dio-desafio-github-primeiro-repositorio
 Repositório de Desafio de projeto sobre Git/Github - Dio.me (Data Engineer - Cognizant)
 
 ## Links úteis
